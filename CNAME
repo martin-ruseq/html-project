@@ -1,6 +1,0 @@
-www.hfmc.project.ie
-$ dig hfmc.project.ie +nostats +nocomments +nocmd
-    > ;hfmc.project.ie.                     IN      A
-    > hfmc.project.ie.              3592    IN      CNAME   martin-ruseq.github.io.
-    > martin-ruseq.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
-    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
